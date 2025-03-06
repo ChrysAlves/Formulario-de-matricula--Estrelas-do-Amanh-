@@ -11,9 +11,8 @@ Resultado do Projeto:
 
 
 
-https://github.com/user-attachments/assets/7e485e8d-2266-49c7-bdd9-beab6f5e5f79
 
-
+https://github.com/user-attachments/assets/1db857f7-b454-4fe3-b420-7d8104fe240b
 
 
 
