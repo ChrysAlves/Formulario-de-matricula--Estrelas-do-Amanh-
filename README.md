@@ -7,4 +7,13 @@ Page onde é apresentado um portifolio demonstrativo, aonde nenhuma informação
 <br>
 Tecnologias usadas: HTML E CSS.
 <br>
-![alt text]({811CDBB8-39E4-4045-816C-FD594687D1B5}-1.png)
+Resultado do Projeto: 
+
+
+
+https://github.com/user-attachments/assets/7e485e8d-2266-49c7-bdd9-beab6f5e5f79
+
+
+
+
+
